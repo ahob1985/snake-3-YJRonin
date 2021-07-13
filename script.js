@@ -1,4 +1,6 @@
-// Author:
+// Author: Ronin YJ
+
+// https://teachablemachine.withgoogle.com/models/-l18TWt_S/
 
 // Global UI Variables
 let canvasDiv;
