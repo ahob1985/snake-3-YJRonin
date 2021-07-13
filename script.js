@@ -49,7 +49,7 @@ function setup() {
   let options = {
     probabilityThreshold: 0.95
   }
-  soundClassifier = ml5.soundClassifier("https://teachablemachine.withgoogle.com/models/-l18TWt_S/", options, modelReady);
+  soundClassifier = ml5.soundClassifier("https://teachablemachine.withgoogle.com/models/-l18TWt_S/model.json", options, modelReady);
 }
 
 function draw() {
